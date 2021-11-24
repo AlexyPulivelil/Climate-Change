@@ -2,10 +2,6 @@
  LiquiDa is a Mobile App which helps us to ensure availability and sustainable management of clean water.
  
 
-## Short description
-
-LiquiDa is a Mobile App which helps us to ensure availability and sustainable management of clean water.
-
 ### What's the problem?
 
 The main problems we try to solev is :
